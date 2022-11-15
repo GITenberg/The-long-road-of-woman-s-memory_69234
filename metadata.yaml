@@ -1,0 +1,40 @@
+_repo: The-long-road-of-woman-s-memory_69234
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Addams, Jane
+    alias: Addams, Laura Jane
+    birthdate: 1860
+    deathdate: 1935
+    gutenberg_agent_id: '602'
+    url: http://www.gutenberg.org/2009/agents/602
+    wikipedia: https://en.wikipedia.org/wiki/Jane_Addams
+description: ''
+gutenberg_issued: '2022-10-26'
+identifiers:
+  gutenberg: '69234'
+  lccn: '16022671'
+language: en
+pgterms:marc904: https://archive.org/details/longroadwomansme00adda
+pgterms:marc905: 20220818133824addams
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Fay Dunn and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: The Macmillan Company,1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Social conditions'
+- !lcsh 'Women -- History'
+- !lcsh 'Women -- Psychology'
+- !lcc 'HQ'
+- GITenberg
+tableOfContents: 'Women''s memories: transmuting the past, as illustrated by the story
+  of the Devil baby -- Women''s memories: reacting on life, as illustrated by the
+  story of the Devil baby -- Women''s memories: disturbing conventions -- Women''s
+  memories: integrating industry -- Women''s memories: challenging war -- A personal
+  experience in interpretative memory.'
+title: The long road of woman's memory
+url: http://www.gutenberg.org/ebooks/69234
